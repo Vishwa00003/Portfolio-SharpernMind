@@ -806,6 +806,9 @@ body.dark-mode {
 }
 
 .Footer {
-       Color:#6d308b;
-       Padding:50%:
+    color: #6d308b;
+    font-style: Courier New;
+    border-right: 10px;
+    font-family: var(--bg-black-100);
+    padding-left: 490px;
 } 
